@@ -1,0 +1,9 @@
+﻿{
+  "name": "discord-reklam-botu-altyap-",
+  "version": "0.0.0",
+  "description": "DiscordReklamBotuAltyapı",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

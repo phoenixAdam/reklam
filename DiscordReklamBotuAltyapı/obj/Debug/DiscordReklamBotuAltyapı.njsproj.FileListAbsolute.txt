@@ -1,0 +1,3 @@
+C:\Users\emirb_govntz9\source\repos\DiscordReklamBotuAltyapı\DiscordReklamBotuAltyapı\obj\Debug\DiscordReklamBotuAltyapı.njsprojAssemblyReference.cache
+C:\Users\emirb_govntz9\source\repos\DiscordReklamBotuAltyapı\DiscordReklamBotuAltyapı\obj\Debug\DiscordReklamBotuAltyapı.njsproj.CoreCompileInputs.cache
+C:\Users\emirb_govntz9\source\repos\DiscordReklamBotuAltyapı\DiscordReklamBotuAltyapı\bin\Microsoft.NodejsTools.WebRole.dll
