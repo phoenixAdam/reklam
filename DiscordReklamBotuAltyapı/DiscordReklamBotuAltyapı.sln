@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DiscordReklamBotuAltyapı", "DiscordReklamBotuAltyapı\DiscordReklamBotuAltyapı.njsproj", "{F67762EC-EDA5-4EAD-A02E-C282E0D26CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67762EC-EDA5-4EAD-A02E-C282E0D26CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67762EC-EDA5-4EAD-A02E-C282E0D26CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67762EC-EDA5-4EAD-A02E-C282E0D26CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67762EC-EDA5-4EAD-A02E-C282E0D26CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B2DAE69-8573-42AF-8938-06884B97ECB3}
+	EndGlobalSection
+EndGlobal
